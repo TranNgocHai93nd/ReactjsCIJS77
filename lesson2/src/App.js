@@ -10,19 +10,19 @@ let songs = [
     time:'3 hours'
   },
   {
-    image:"https://yphimsex.cc/wp-content/uploads/2020/09/anh-sex-gai-xinh-lam-tinh-1-1.jpg",
+    image:"https://i.ytimg.com/vi/SlGnZDI9HVg/maxresdefault.jpg",
     name: 'hai nè', 
     singer: "Mai Tiến Dũng", 
     time:'3 hours'
   },
   {
-    image:"https://yphimsex.cc/wp-content/uploads/2020/09/anh-sex-gai-xinh-lam-tinh-1-1.jpg",
+    image:"https://i.ytimg.com/vi/SlGnZDI9HVg/maxresdefault.jpg",
     name: 'hai nè', 
     singer: "Mai Tiến Dũng", 
     time:'3 hours'
   },
   {
-    image:"https://lau-xanh.us/wp-content/uploads/2022/06/2_clip-sex-nhu-ha-tran-3.jpg",
+    image:"https://i.ytimg.com/vi/SlGnZDI9HVg/maxresdefault.jpg",
     name: 'hai nè', 
     singer: "Mai Tiến Dũng", 
     time:'3 hours'
@@ -34,25 +34,25 @@ let songs = [
     time:'3 hours'
   },
   {
-    image:"https://yphimsex.cc/wp-content/uploads/2020/09/anh-sex-gai-xinh-lam-tinh-1-1.jpg",
+    image:"https://i.ytimg.com/vi/SlGnZDI9HVg/maxresdefault.jpg",
     name: 'hai nè', 
     singer: "Mai Tiến Dũng", 
     time:'3 hours'
   },
   {
-    image:"https://yphimsex.cc/wp-content/uploads/2020/09/anh-sex-gai-xinh-lam-tinh-1-1.jpg",
+    image:"https://i.ytimg.com/vi/SlGnZDI9HVg/maxresdefault.jpg",
     name: 'hai nè', 
     singer: "Mai Tiến Dũng", 
     time:'3 hours'
   },
   {
-    image:"https://lau-xanh.us/wp-content/uploads/2022/06/2_clip-sex-nhu-ha-tran-3.jpg",
+    image:"https://i.ytimg.com/vi/SlGnZDI9HVg/maxresdefault.jpg",
     name: 'hai nè', 
     singer: "Mai Tiến Dũng", 
     time:'3 hours'
   },
   {
-    image:"https://lau-xanh.us/wp-content/uploads/2022/06/2_clip-sex-nhu-ha-tran-3.jpg",
+    image:"https://i.ytimg.com/vi/SlGnZDI9HVg/maxresdefault.jpg",
     name: 'hai nè', 
     singer: "Mai Tiến Dũng", 
     time:'3 hours'
