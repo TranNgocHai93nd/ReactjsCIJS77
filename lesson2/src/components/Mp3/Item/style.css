@@ -1,0 +1,83 @@
+.main-content{
+    width: 32%;
+    
+}
+.main-content_item{
+    display: flex;
+    width: 320px;
+    padding: 15px;
+    position: relative;
+}
+.item-image{
+    width: 150px;
+    height: 150px;
+}
+.item-content{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex: 1 ;
+}
+img{
+    width: 100%;
+    height: 100%;
+    border-radius: 19px;
+}
+ul li{
+    list-style: none;
+    font-size: 17px;
+   
+}
+li:first-child{
+    font-weight: bolder;
+    font-size: 20px;
+    color: red
+}
+ul {
+    padding: 0px;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+.main-content:hover{
+    background-color: rgb(145, 137, 137);
+    border-radius: 10px;
+}
+.main-content_item::before{
+    font-family: "Font Awesome 6 Free";
+    font-weight: 900;
+    content: '\f144';
+    position: absolute;
+    font-size: 50px;
+    top: 62px;
+    left: 65px;
+    visibility:hidden;
+    opacity: 0.5;
+    color: red;
+}
+.main-content_item::after{
+    content: '...';
+    position: absolute;
+    top: 20px;
+    left: 342px;
+    font-size: 67px;
+    visibility: hidden;
+    opacity: 0.5;
+    color: red;
+}
+.main-content:hover .main-content_item::before{
+    visibility:visible;
+}
+.main-content:hover .main-content_item::after{
+    visibility:visible;
+}
+
+a{
+    text-decoration: none;
+    color: inherit;
+}
+a:hover{
+    color:blue;
+    text-decoration: underline;
+}
